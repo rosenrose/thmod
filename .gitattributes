@@ -1,3 +1,4 @@
 * text eol=lf
 *.js text
 *.png binary
+*.sht binary
