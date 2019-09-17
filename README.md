@@ -5,6 +5,7 @@ bottom_enemy: Indicates "enemy" position like pre-th11 style.
 swappedShots:
 * (TH07)ReimuA→MarisaA style, ReimuB→SakuyaB style, MarisaA→ReimuA style, MarisaB→SakuyaB style
 * (TH10)MarisaA→ReimuC style, MarisaC→ReimuA style
+* (TH11)ReimuA→MarisaA style, ReimuB→MarisaB style, MarisaB→ReimuB style
 
 th08_swapping: Changes the player pairs to (Reimu,Marisa),(Sakuya,Alice),(Youmu,Remilia),(Yukari,Yuyuko)
 
