@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/rosenrose/thmod/master/swappedShots/"
 	],
-	"title": "(TH07)ReimuA→MarisaA type, ReimuB→SakuyaB type, MarisaA→ReimuA type, MarisaB→SakuyaB type"
+	"title": "(TH07)ReimuA→MarisaA style, ReimuB→SakuyaB style, MarisaA→ReimuA style, MarisaB→SakuyaB style\n        (TH10)MarisaA→ReimuC style, MarisaC→ReimuA style"
 }
