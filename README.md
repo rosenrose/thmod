@@ -1,5 +1,7 @@
 # thmod
 
+8options: (TH11)Reimu's all types and MarisaC can have 8 options.
+
 bottom_enemy: Indicates "enemy" position like pre-th11 style.
 
 swappedShots:
