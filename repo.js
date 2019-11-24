@@ -6,7 +6,7 @@
 		"bottom_enemy": "Indicates \"enemy\" position like pre-th11 style.",
 		"swappedShots": "(TH07)ReimuA→MarisaA style, ReimuB→SakuyaB style, MarisaA→ReimuA style, MarisaB→SakuyaB style\n        (TH10)MarisaA→ReimuC style, MarisaC→ReimuA style\n        (TH11)ReimuA→MarisaA style, ReimuB→MarisaB style, MarisaB→ReimuB style",
 		"th08_swapping": "Changes the player pairs: (Reimu,Marisa),(Sakuya,Alice),(Youmu,Remilia),(Yukari,Yuyuko)",
-		"ufo_vivid": "Makes the UFO more noticeable.\n        by Dide, https://snipestalker.blog.me/221508374213"
+		"ufo_vivid": "UFO patch for the color blind people.\n        by Dide, https://snipestalker.blog.me/221508374213"
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/rosenrose/thmod/master/"
