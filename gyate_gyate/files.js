@@ -20,5 +20,5 @@
 	"th06/face12a.png": 3655560696,
 	"th06/face12b.png": 3655560696,
 	"th06/face12c.png": 3088052091,
-	"th06/title00.jpg": 205696411
+	"th06/title00.jpg": 1201098542
 }
