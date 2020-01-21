@@ -13,4 +13,4 @@ th08_swapping: Changes the player pairs to (Reimu,Marisa),(Sakuya,Alice),(Youmu,
 
 ufo_vivid: UFO patch for the color blind people. By Dide: https://snipestalker.blog.me/221508374213
 
-gyate_gyate: Gyate faces.(TH06, TH07)
+gyate_gyate: Gyate faces.(TH06, TH07, TH08)
