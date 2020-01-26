@@ -137,7 +137,7 @@
 	"th08/data/face/st07/face_st07dp.png": 702116243,
 	"th08/data/face/st07/face_st07n2.png": 702116243,
 	"th08/data/face/st07/face_st07no.png": 702116243,
-	"th08/data/face/st07/face_st07sw.png": 2147311231,
+	"th08/data/face/st07/face_st07sw.png": 702116243,
 	"th08/data/face/st08/face_st08a.png": 2262394684,
 	"th08/data/face/st08/face_st08an.png": 127854108,
 	"th08/data/face/st08/face_st08dp.png": 3570807722,
