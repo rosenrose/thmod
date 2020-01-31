@@ -16,3 +16,5 @@ ufo_vivid: UFO patch for color blind people. By Dide: https://snipestalker.blog.
 gyate_gyate: Gyate faces.(TH06, TH07, TH08)
 
 ultrafast_otter: Boost the speed of the Otter spirit shield.
+
+beast_to_ufo: (TH17)Show you the UFOs instead of the beasts.(just graphic replacement)
