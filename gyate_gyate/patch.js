@@ -6,5 +6,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/rosenrose/thmod/master/gyate_gyate/"
 	],
-	"title": "Gyate_gyate faces.(TH06, TH07, TH08)"
+	"title": "Gyate gyate faces.(TH06, TH07, TH08)"
 }
