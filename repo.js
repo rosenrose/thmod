@@ -5,6 +5,7 @@
 		"8options": "(TH11)Reimu's all types and MarisaC can have 8 options.",
 		"beast_to_ufo": "(TH17)Show you the UFOs instead of the beasts.(just graphic replacement)",
 		"bottom_enemy": "Indicates \"enemy\" position like pre-th11 style.",
+		"greedy_otter": "(TH17)Otter type has both of Wolf's fast shot and Eagle's slow shot.",
 		"gyate_gyate": "Gyate_gyate faces.(TH06, TH07, TH08)",
 		"swappedShots": "(TH07)ReimuA→MarisaA style, ReimuB→SakuyaB style, MarisaA→ReimuA style, MarisaB→SakuyaB style\n        (TH10)MarisaA→ReimuC style, MarisaC→ReimuA style\n        (TH11)ReimuA→MarisaA style, ReimuB→MarisaB style, MarisaB→ReimuB style",
 		"th08_swapping": "Changes the player pairs: (Reimu,Marisa),(Sakuya,Alice),(Youmu,Remilia),(Yukari,Yuyuko)",

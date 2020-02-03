@@ -20,3 +20,5 @@ ultrafast_otter: Boost the speed of the Otter spirit shield.
 beast_to_ufo: (TH17)Show you the UFOs instead of the beasts.(just graphic replacement)
 
 th165_C-key: Press C to teleport.(made by 335 from MUASTG)
+
+greedy_otter: (TH17)Otter type has both of Wolf's fast shot and Eagle's slow shot.
