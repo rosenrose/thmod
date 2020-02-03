@@ -8,6 +8,7 @@
 		"gyate_gyate": "Gyate_gyate faces.(TH06, TH07, TH08)",
 		"swappedShots": "(TH07)ReimuA→MarisaA style, ReimuB→SakuyaB style, MarisaA→ReimuA style, MarisaB→SakuyaB style\n        (TH10)MarisaA→ReimuC style, MarisaC→ReimuA style\n        (TH11)ReimuA→MarisaA style, ReimuB→MarisaB style, MarisaB→ReimuB style",
 		"th08_swapping": "Changes the player pairs: (Reimu,Marisa),(Sakuya,Alice),(Youmu,Remilia),(Yukari,Yuyuko)",
+		"th165_C-key": "Press C to teleport.(made by 335 from MUASTG)",
 		"ufo_vivid": "UFO patch for color blind people.\n        by Dide, https://snipestalker.blog.me/221508374213",
 		"ultrafast_otter": "Boost the speed of the Otter spirit shield."
 	},
