@@ -3,7 +3,7 @@
 		"hack1": {
 			"addr": "0x0043DF06",
 			"code": "E9 CFCD0400",
-			"expected": "89 04 B5 38 58 4A 00"
+			"expected": "89 04 B5 38 58 4A 00",
 			"title": "Jump to empty space."
 		},
 		"NOP": {
@@ -12,7 +12,7 @@
 		},
 		"hack2": {
 			"addr": "0x0048ACDA",
-			"code": "C704B5 38584A00 00000000"
+			"code": "C704B5 38584A00 00000000",
 			"title": "Move 0 instead of EAX to dword ptr ds:[esi*4+0x4A5838]"
 		},
 		"hack3": {
