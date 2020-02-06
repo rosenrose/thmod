@@ -2,13 +2,8 @@
 	"binhacks": {
 		"hack1": {
 			"addr": "0x0043DF06",
-			"code": "E9 CFCD0400",
-			"expected": "89 04 B5 38 58 4A 00",
+			"code": "E9 CFCD0400 90 90",
 			"title": "Jump to empty space."
-		},
-		"NOP": {
-			"addr": "0x0043DF0B",
-			"code": "90 90"
 		},
 		"hack2": {
 			"addr": "0x0048ACDA",
