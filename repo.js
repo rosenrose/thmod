@@ -9,7 +9,6 @@
 		"gyate_gyate": "Gyate gyate faces.(TH06, TH07, TH08)",
 		"swappedShots": "(TH07)ReimuA→MarisaA style, ReimuB→SakuyaB style, MarisaA→ReimuA style, MarisaB→SakuyaB style\n        (TH10)MarisaA→ReimuC style, MarisaC→ReimuA style\n        (TH11)ReimuA→MarisaA style, ReimuB→MarisaB style, MarisaB→ReimuB style",
 		"th08_swapping": "Changes the player pairs: (Reimu,Marisa),(Sakuya,Alice),(Youmu,Remilia),(Yukari,Yuyuko)",
-		"th15_pointdevice_no_power_loss": "No power loss in pointdeivce mode.(made by 32th-System)",
 		"th165_C-key": "Press C to teleport.(made by 335 from MUASTG)",
 		"th16_infinite_season": "The season level is fixed at 6.",
 		"ufo_vivid": "UFO patch for color blind people.\n        by Dide, https://snipestalker.blog.me/221508374213",
