@@ -11,6 +11,7 @@
 		"th08_swapping": "Changes the player pairs: (Reimu,Marisa),(Sakuya,Alice),(Youmu,Remilia),(Yukari,Yuyuko)",
 		"th165_C-key": "Press C to teleport.(made by 335 from MUASTG)",
 		"th16_infinite_season": "The season level is fixed at 6.",
+		"th17_infinite_roaring": "Roaring gauge doesn't decrease.",
 		"ufo_vivid": "UFO patch for color blind people.\n        by Dide, https://snipestalker.blog.me/221508374213",
 		"ultrafast_otter": "Boost the speed of the Otter spirit shield."
 	},
